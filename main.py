@@ -1,20 +1,20 @@
+import json
+import os
 from fastapi import FastAPI
-import pandas as pd
 
 app = FastAPI()
 
-# Load dataset
-df = pd.read_csv("fake_dwlr_data.csv")
+# Always find the JSON file relative to this script
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_FILE = os.path.join(BASE_DIR, "data.json")
 
-@app.get("/")
-def root():
-    return {"message": "Groundwater Monitoring API running 🚰"}
+with open(DATA_FILE, "r") as f:
+    groundwater_data = json.load(f)
 
 @app.get("/stations")
 def get_stations():
-    return {"stations": df["Station_ID"].unique().tolist()}
+    return list(groundwater_data.keys())
 
 @app.get("/station/{station_id}")
-def get_station_data(station_id: str, limit: int = 100):
-    data = df[df["Station_ID"] == station_id].tail(limit)
-    return data.to_dict(orient="records")
+def get_station_data(station_id: str):
+    return groundwater_data.get(station_id, [])
