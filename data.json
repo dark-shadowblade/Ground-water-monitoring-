@@ -1,0 +1,3890 @@
+{
+  "station_1": {
+    "state": "Andhra Pradesh",
+    "district": "District_1_Andhra_Pradesh",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 15.71
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 15.31
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 15.76
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 16.35
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 17.05
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 17.39
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 16.99
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 16.16
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 16.89
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 16.92
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 16.67
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 16.08
+      }
+    ]
+  },
+  "station_2": {
+    "state": "Andhra Pradesh",
+    "district": "District_2_Andhra_Pradesh",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 14.13
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 14.08
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 13.65
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 13.26
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 12.9
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 13.68
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 12.79
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 12.12
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 12.98
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 13.69
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 14.24
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 13.36
+      }
+    ]
+  },
+  "station_3": {
+    "state": "Arunachal Pradesh",
+    "district": "District_1_Arunachal_Pradesh",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 19.97
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 20.16
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 20.23
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 19.55
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 19.44
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 20.18
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 20.11
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 19.24
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 19.47
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 19.21
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 19.56
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 19.19
+      }
+    ]
+  },
+  "station_4": {
+    "state": "Arunachal Pradesh",
+    "district": "District_2_Arunachal_Pradesh",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 17.68
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 17.74
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 17.02
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 16.64
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 16.61
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 16.2
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 15.84
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 16.6
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 16.62
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 16.54
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 16.54
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 15.78
+      }
+    ]
+  },
+  "station_5": {
+    "state": "Assam",
+    "district": "District_1_Assam",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 11.07
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 10.57
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 9.58
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 10.38
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 11.1
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 11.96
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 11.2
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 11.98
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 11.84
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 12.32
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 12.66
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 12.34
+      }
+    ]
+  },
+  "station_6": {
+    "state": "Assam",
+    "district": "District_2_Assam",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 16.03
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 15.56
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 15.82
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 15.95
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 15.98
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 16.67
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 16.68
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 15.94
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 16.26
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 16.36
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 15.98
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 15.59
+      }
+    ]
+  },
+  "station_7": {
+    "state": "Bihar",
+    "district": "District_1_Bihar",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 10.26
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 11.03
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 11.64
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 11.31
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 10.77
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 10.59
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 9.68
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 10.26
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 11.11
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 10.53
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 10.91
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 11.49
+      }
+    ]
+  },
+  "station_8": {
+    "state": "Bihar",
+    "district": "District_2_Bihar",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 19.33
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 19.64
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 19.46
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 19.07
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 19.92
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 20.64
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 21.13
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 20.36
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 20.61
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 20.2
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 20.95
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 20.06
+      }
+    ]
+  },
+  "station_9": {
+    "state": "Chhattisgarh",
+    "district": "District_1_Chhattisgarh",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 9.57
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 9.09
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 9.73
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 10.05
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 9.41
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 8.7
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 7.72
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 7.41
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 8.24
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 8.98
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 8.14
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 8.85
+      }
+    ]
+  },
+  "station_10": {
+    "state": "Chhattisgarh",
+    "district": "District_2_Chhattisgarh",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 14.26
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 13.28
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 12.56
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 12.82
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 12.27
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 12.97
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 13.28
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 13.06
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 13.67
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 13.34
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 13.0
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 12.89
+      }
+    ]
+  },
+  "station_11": {
+    "state": "Goa",
+    "district": "District_1_Goa",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 5.4
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 6.39
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 6.98
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 7.0
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 6.67
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 7.66
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 6.93
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 7.2
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 6.35
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 6.45
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 5.64
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 6.18
+      }
+    ]
+  },
+  "station_12": {
+    "state": "Goa",
+    "district": "District_2_Goa",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 10.42
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 10.02
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 9.91
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 9.03
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 8.79
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 9.43
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 9.25
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 9.5
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 10.23
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 9.8
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 10.79
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 11.61
+      }
+    ]
+  },
+  "station_13": {
+    "state": "Gujarat",
+    "district": "District_1_Gujarat",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 14.42
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 14.35
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 14.7
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 15.27
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 16.26
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 16.42
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 16.17
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 16.61
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 16.47
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 15.99
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 15.16
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 15.52
+      }
+    ]
+  },
+  "station_14": {
+    "state": "Gujarat",
+    "district": "District_2_Gujarat",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 6.09
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 6.96
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 6.28
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 6.52
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 5.57
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 5.23
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 4.87
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 4.53
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 3.89
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 4.83
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 4.36
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 5.24
+      }
+    ]
+  },
+  "station_15": {
+    "state": "Haryana",
+    "district": "District_1_Haryana",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 11.81
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 11.35
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 12.17
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 11.36
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 10.87
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 11.73
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 12.19
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 11.99
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 12.78
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 12.74
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 13.49
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 13.23
+      }
+    ]
+  },
+  "station_16": {
+    "state": "Haryana",
+    "district": "District_2_Haryana",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 17.18
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 16.63
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 15.72
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 15.83
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 15.26
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 16.24
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 16.54
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 16.21
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 16.17
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 16.43
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 15.78
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 15.18
+      }
+    ]
+  },
+  "station_17": {
+    "state": "Himachal Pradesh",
+    "district": "District_1_Himachal_Pradesh",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 23.54
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 22.54
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 22.71
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 22.0
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 22.72
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 22.73
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 21.99
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 22.87
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 21.99
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 22.47
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 22.89
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 23.43
+      }
+    ]
+  },
+  "station_18": {
+    "state": "Himachal Pradesh",
+    "district": "District_2_Himachal_Pradesh",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 24.27
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 24.3
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 24.6
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 25.33
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 25.29
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 24.68
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 25.48
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 26.06
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 25.52
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 25.64
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 26.49
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 25.96
+      }
+    ]
+  },
+  "station_19": {
+    "state": "Jharkhand",
+    "district": "District_1_Jharkhand",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 6.29
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 5.4
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 4.96
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 4.15
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 4.1
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 3.88
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 2.97
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 2.14
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 2.32
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 2
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 2.59
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 2.69
+      }
+    ]
+  },
+  "station_20": {
+    "state": "Jharkhand",
+    "district": "District_2_Jharkhand",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 9.72
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 9.05
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 8.99
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 9.76
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 9.51
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 9.17
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 8.99
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 8.9
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 8.44
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 9.14
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 9.05
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 9.22
+      }
+    ]
+  },
+  "station_21": {
+    "state": "Karnataka",
+    "district": "District_1_Karnataka",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 16.97
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 16.63
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 16.52
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 16.59
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 16.97
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 16.05
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 15.12
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 14.14
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 13.32
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 13.97
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 13.72
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 14.39
+      }
+    ]
+  },
+  "station_22": {
+    "state": "Karnataka",
+    "district": "District_2_Karnataka",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 9.93
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 9.28
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 9.38
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 9.82
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 9.46
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 10.37
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 11.2
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 10.98
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 10.37
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 10.18
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 10.68
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 10.38
+      }
+    ]
+  },
+  "station_23": {
+    "state": "Kerala",
+    "district": "District_1_Kerala",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 19.53
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 20.14
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 20.9
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 20.94
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 21.37
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 20.77
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 20.19
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 19.51
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 18.86
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 18.41
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 18.71
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 18.65
+      }
+    ]
+  },
+  "station_24": {
+    "state": "Kerala",
+    "district": "District_2_Kerala",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 18.84
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 19.04
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 18.71
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 18.61
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 19.22
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 18.43
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 17.88
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 17.86
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 18.68
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 19.49
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 19.15
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 19.52
+      }
+    ]
+  },
+  "station_25": {
+    "state": "Madhya Pradesh",
+    "district": "District_1_Madhya_Pradesh",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 6.23
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 5.64
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 5.57
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 5.55
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 6.25
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 5.71
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 6.09
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 6.07
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 5.41
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 5.53
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 4.85
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 5.63
+      }
+    ]
+  },
+  "station_26": {
+    "state": "Madhya Pradesh",
+    "district": "District_2_Madhya_Pradesh",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 21.63
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 22.5
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 21.79
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 21.5
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 20.69
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 20.91
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 20.34
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 19.89
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 19.83
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 19.24
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 18.45
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 17.83
+      }
+    ]
+  },
+  "station_27": {
+    "state": "Maharashtra",
+    "district": "District_1_Maharashtra",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 17.85
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 17.64
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 18.03
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 18.2
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 18.0
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 18.01
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 18.58
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 19.33
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 19.59
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 20.01
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 20.35
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 20.62
+      }
+    ]
+  },
+  "station_28": {
+    "state": "Maharashtra",
+    "district": "District_2_Maharashtra",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 21.76
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 21.69
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 21.86
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 21.82
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 22.16
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 22.1
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 22.88
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 23.05
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 22.13
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 22.77
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 22.65
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 21.68
+      }
+    ]
+  },
+  "station_29": {
+    "state": "Manipur",
+    "district": "District_1_Manipur",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 4.53
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 4.98
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 5.6
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 6.33
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 5.4
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 5.42
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 4.94
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 5.87
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 5.61
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 6.42
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 5.59
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 4.88
+      }
+    ]
+  },
+  "station_30": {
+    "state": "Manipur",
+    "district": "District_2_Manipur",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 7.54
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 8.26
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 7.45
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 6.49
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 7.42
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 6.91
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 7.86
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 8.67
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 9.51
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 10.45
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 9.71
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 10.25
+      }
+    ]
+  },
+  "station_31": {
+    "state": "Meghalaya",
+    "district": "District_1_Meghalaya",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 8.28
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 9.17
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 8.8
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 8.77
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 8.57
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 9.07
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 8.9
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 9.88
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 10.66
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 10.23
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 9.84
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 9.7
+      }
+    ]
+  },
+  "station_32": {
+    "state": "Meghalaya",
+    "district": "District_2_Meghalaya",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 15.36
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 14.58
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 15.14
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 15.02
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 14.85
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 14.97
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 14.68
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 14.87
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 15.43
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 14.61
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 15.05
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 15.05
+      }
+    ]
+  },
+  "station_33": {
+    "state": "Mizoram",
+    "district": "District_1_Mizoram",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 14.09
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 13.96
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 13.79
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 14.29
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 15.14
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 14.57
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 14.37
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 14.67
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 15.34
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 16.15
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 15.52
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 15.49
+      }
+    ]
+  },
+  "station_34": {
+    "state": "Mizoram",
+    "district": "District_2_Mizoram",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 14.32
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 13.49
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 13.08
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 12.99
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 12.18
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 11.2
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 11.47
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 11.37
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 11.46
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 11.6
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 11.49
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 11.49
+      }
+    ]
+  },
+  "station_35": {
+    "state": "Nagaland",
+    "district": "District_1_Nagaland",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 18.02
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 17.12
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 16.59
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 15.69
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 15.36
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 15.12
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 15.67
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 15.43
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 15.91
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 16.41
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 15.73
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 15.68
+      }
+    ]
+  },
+  "station_36": {
+    "state": "Nagaland",
+    "district": "District_2_Nagaland",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 15.35
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 14.84
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 14.13
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 14.75
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 14.0
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 14.26
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 13.57
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 13.7
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 14.69
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 14.65
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 14.11
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 13.19
+      }
+    ]
+  },
+  "station_37": {
+    "state": "Odisha",
+    "district": "District_1_Odisha",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 11.85
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 12.27
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 11.41
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 12.35
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 11.69
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 12.4
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 13.1
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 13.27
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 13.31
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 14.05
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 14.03
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 14.26
+      }
+    ]
+  },
+  "station_38": {
+    "state": "Odisha",
+    "district": "District_2_Odisha",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 11.06
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 11.22
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 11.65
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 11.67
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 11.3
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 12.07
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 12.13
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 12.96
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 13.25
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 13.88
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 14.63
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 14.36
+      }
+    ]
+  },
+  "station_39": {
+    "state": "Punjab",
+    "district": "District_1_Punjab",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 9.65
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 9.7
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 10.4
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 11.15
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 10.28
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 11.13
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 11.69
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 10.9
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 10.11
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 9.84
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 9.4
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 8.73
+      }
+    ]
+  },
+  "station_40": {
+    "state": "Punjab",
+    "district": "District_2_Punjab",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 18.67
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 18.17
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 18.3
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 18.14
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 17.21
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 17.43
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 17.55
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 17.39
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 18.1
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 17.96
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 17.04
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 17.27
+      }
+    ]
+  },
+  "station_41": {
+    "state": "Rajasthan",
+    "district": "District_1_Rajasthan",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 9.13
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 8.56
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 8.71
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 9.56
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 9.13
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 8.45
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 7.96
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 8.51
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 8.24
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 8.72
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 9.15
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 9.98
+      }
+    ]
+  },
+  "station_42": {
+    "state": "Rajasthan",
+    "district": "District_2_Rajasthan",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 6.07
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 5.24
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 4.89
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 4.94
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 5.57
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 5.55
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 4.57
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 5.18
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 5.44
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 5.49
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 6.05
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 5.9
+      }
+    ]
+  },
+  "station_43": {
+    "state": "Sikkim",
+    "district": "District_1_Sikkim",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 23.39
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 24.07
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 23.36
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 22.87
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 22.81
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 23.75
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 23.25
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 23.15
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 23.93
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 23.22
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 22.27
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 22.89
+      }
+    ]
+  },
+  "station_44": {
+    "state": "Sikkim",
+    "district": "District_2_Sikkim",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 21.77
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 21.58
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 20.73
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 21.68
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 21.44
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 21.43
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 22.23
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 22.03
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 22.87
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 23.73
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 23.3
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 22.96
+      }
+    ]
+  },
+  "station_45": {
+    "state": "Tamil Nadu",
+    "district": "District_1_Tamil_Nadu",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 19.58
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 20.18
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 19.19
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 18.4
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 18.89
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 19.87
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 19.36
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 19.18
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 18.85
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 19.58
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 19.31
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 19.27
+      }
+    ]
+  },
+  "station_46": {
+    "state": "Tamil Nadu",
+    "district": "District_2_Tamil_Nadu",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 9.15
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 9.78
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 9.82
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 10.53
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 10.79
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 10.6
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 10.54
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 10.34
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 9.57
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 10.38
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 10.56
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 10.53
+      }
+    ]
+  },
+  "station_47": {
+    "state": "Telangana",
+    "district": "District_1_Telangana",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 5.83
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 6.19
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 6.54
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 7.2
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 7.58
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 8.49
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 8.16
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 7.4
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 6.51
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 5.71
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 5.09
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 5.06
+      }
+    ]
+  },
+  "station_48": {
+    "state": "Telangana",
+    "district": "District_2_Telangana",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 24.15
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 24.8
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 24.5
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 25.45
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 25.69
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 25.37
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 25.43
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 25.37
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 25.44
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 25.92
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 25.6
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 25.05
+      }
+    ]
+  },
+  "station_49": {
+    "state": "Tripura",
+    "district": "District_1_Tripura",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 21.3
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 20.37
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 20.01
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 20.23
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 19.59
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 19.32
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 19.75
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 19.43
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 19.88
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 20.28
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 20.02
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 20.17
+      }
+    ]
+  },
+  "station_50": {
+    "state": "Tripura",
+    "district": "District_2_Tripura",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 11.41
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 11.93
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 12.57
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 13.24
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 12.89
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 13.42
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 13.76
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 12.99
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 12.97
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 13.57
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 12.85
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 12.47
+      }
+    ]
+  },
+  "station_51": {
+    "state": "Uttar Pradesh",
+    "district": "District_1_Uttar_Pradesh",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 15.91
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 16.57
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 16.19
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 16.77
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 16.38
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 15.97
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 16.45
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 16.86
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 16.44
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 16.19
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 16.79
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 16.17
+      }
+    ]
+  },
+  "station_52": {
+    "state": "Uttar Pradesh",
+    "district": "District_2_Uttar_Pradesh",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 19.42
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 19.12
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 19.94
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 20.6
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 20.66
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 20.31
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 20.73
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 20.28
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 20.1
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 19.11
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 19.86
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 20.05
+      }
+    ]
+  },
+  "station_53": {
+    "state": "Uttarakhand",
+    "district": "District_1_Uttarakhand",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 13.14
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 14.03
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 13.17
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 12.45
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 12.31
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 12.58
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 13.29
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 12.58
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 11.75
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 10.96
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 11.03
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 11.07
+      }
+    ]
+  },
+  "station_54": {
+    "state": "Uttarakhand",
+    "district": "District_2_Uttarakhand",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 11.54
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 11.36
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 11.14
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 12.09
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 12.61
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 13.5
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 13.71
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 13.1
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 12.43
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 11.47
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 11.37
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 12.06
+      }
+    ]
+  },
+  "station_55": {
+    "state": "West Bengal",
+    "district": "District_1_West_Bengal",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 22.26
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 22.9
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 22.87
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 22.53
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 22.98
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 22.38
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 22.35
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 21.87
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 21.73
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 21.12
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 21.48
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 21.9
+      }
+    ]
+  },
+  "station_56": {
+    "state": "West Bengal",
+    "district": "District_2_West_Bengal",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 20.47
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 20.56
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 20.39
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 20.75
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 21.29
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 21.3
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 21.66
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 21.46
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 20.68
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 21.06
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 21.8
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 20.81
+      }
+    ]
+  },
+  "station_57": {
+    "state": "Andaman and Nicobar Islands",
+    "district": "District_1_Andaman_and_Nicobar_Islands",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 20.58
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 20.52
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 20.06
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 20.84
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 21.25
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 20.65
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 20.65
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 20.68
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 21.46
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 22.16
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 22.16
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 22.41
+      }
+    ]
+  },
+  "station_58": {
+    "state": "Andaman and Nicobar Islands",
+    "district": "District_2_Andaman_and_Nicobar_Islands",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 23.81
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 23.02
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 22.21
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 22.9
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 22.58
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 22.9
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 23.09
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 23.25
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 22.99
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 22.28
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 21.95
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 21.87
+      }
+    ]
+  },
+  "station_59": {
+    "state": "Chandigarh",
+    "district": "District_1_Chandigarh",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 12.73
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 12.44
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 11.98
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 12.8
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 12.47
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 11.83
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 12.83
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 12.72
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 13.37
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 13.75
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 14.11
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 14.66
+      }
+    ]
+  },
+  "station_60": {
+    "state": "Chandigarh",
+    "district": "District_2_Chandigarh",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 10.45
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 10.08
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 9.75
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 9.0
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 9.86
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 10.83
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 11.23
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 10.95
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 10.43
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 10.87
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 9.93
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 10.25
+      }
+    ]
+  },
+  "station_61": {
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district": "District_1_Dadra_and_Nagar_Haveli_and_Daman_and_Diu",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 12.65
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 11.81
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 11.95
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 12.43
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 13.24
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 13.02
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 13.25
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 12.79
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 13.14
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 14.03
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 13.92
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 14.08
+      }
+    ]
+  },
+  "station_62": {
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "district": "District_2_Dadra_and_Nagar_Haveli_and_Daman_and_Diu",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 14.38
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 13.94
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 13.69
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 12.78
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 12.25
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 12.04
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 12.85
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 13.7
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 12.91
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 13.4
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 12.45
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 12.03
+      }
+    ]
+  },
+  "station_63": {
+    "state": "Delhi",
+    "district": "District_1_Delhi",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 9.2
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 8.88
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 9.04
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 9.4
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 9.72
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 10.32
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 9.57
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 9.91
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 10.86
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 11.8
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 12.28
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 12.17
+      }
+    ]
+  },
+  "station_64": {
+    "state": "Delhi",
+    "district": "District_2_Delhi",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 21.41
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 20.81
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 21.16
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 20.4
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 20.37
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 19.72
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 19.76
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 18.82
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 18.7
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 17.86
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 18.22
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 18.51
+      }
+    ]
+  },
+  "station_65": {
+    "state": "Jammu and Kashmir",
+    "district": "District_1_Jammu_and_Kashmir",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 13.33
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 12.41
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 12.84
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 13.48
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 12.93
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 12.93
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 12.43
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 12.84
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 12.62
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 13.58
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 14.45
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 15.36
+      }
+    ]
+  },
+  "station_66": {
+    "state": "Jammu and Kashmir",
+    "district": "District_2_Jammu_and_Kashmir",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 4.89
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 4.36
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 4.23
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 3.34
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 2.46
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 2
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 2.45
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 2
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 2.31
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 2.53
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 3.24
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 3.28
+      }
+    ]
+  },
+  "station_67": {
+    "state": "Ladakh",
+    "district": "District_1_Ladakh",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 6.52
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 5.81
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 6.55
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 6.92
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 6.09
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 6.4
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 7.04
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 7.92
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 7.14
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 7.76
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 7.84
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 7.18
+      }
+    ]
+  },
+  "station_68": {
+    "state": "Ladakh",
+    "district": "District_2_Ladakh",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 6.45
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 5.83
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 5.45
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 5.65
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 5.41
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 6.03
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 5.06
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 5.33
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 5.99
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 6.69
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 7.03
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 7.21
+      }
+    ]
+  },
+  "station_69": {
+    "state": "Lakshadweep",
+    "district": "District_1_Lakshadweep",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 24.17
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 24.92
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 25.65
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 25.96
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 26.33
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 26.0
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 26.55
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 27.17
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 27.59
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 27.47
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 26.94
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 26.65
+      }
+    ]
+  },
+  "station_70": {
+    "state": "Lakshadweep",
+    "district": "District_2_Lakshadweep",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 6.11
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 6.15
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 6.01
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 5.4
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 6.16
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 6.58
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 6.04
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 5.74
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 5.04
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 4.11
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 5.04
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 4.41
+      }
+    ]
+  },
+  "station_71": {
+    "state": "Puducherry",
+    "district": "District_1_Puducherry",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 13.22
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 13.74
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 14.41
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 14.12
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 14.28
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 13.51
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 12.99
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 13.93
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 14.46
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 15.02
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 15.77
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 15.63
+      }
+    ]
+  },
+  "station_72": {
+    "state": "Puducherry",
+    "district": "District_2_Puducherry",
+    "data": [
+      {
+        "timestamp": "2024-01-01T10:00:00",
+        "water_level": 14.65
+      },
+      {
+        "timestamp": "2024-01-31T10:00:00",
+        "water_level": 13.82
+      },
+      {
+        "timestamp": "2024-03-01T10:00:00",
+        "water_level": 13.21
+      },
+      {
+        "timestamp": "2024-03-31T10:00:00",
+        "water_level": 13.32
+      },
+      {
+        "timestamp": "2024-04-30T10:00:00",
+        "water_level": 14.12
+      },
+      {
+        "timestamp": "2024-05-30T10:00:00",
+        "water_level": 13.71
+      },
+      {
+        "timestamp": "2024-06-29T10:00:00",
+        "water_level": 12.96
+      },
+      {
+        "timestamp": "2024-07-29T10:00:00",
+        "water_level": 12.66
+      },
+      {
+        "timestamp": "2024-08-28T10:00:00",
+        "water_level": 11.92
+      },
+      {
+        "timestamp": "2024-09-27T10:00:00",
+        "water_level": 11.65
+      },
+      {
+        "timestamp": "2024-10-27T10:00:00",
+        "water_level": 11.17
+      },
+      {
+        "timestamp": "2024-11-26T10:00:00",
+        "water_level": 10.66
+      }
+    ]
+  }
+}
