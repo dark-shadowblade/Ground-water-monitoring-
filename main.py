@@ -8,9 +8,9 @@ from datetime import datetime, timedelta
 
 app = FastAPI()
 
-# Load mock data.json
+# Load data.json (your uploaded mock dataset)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_FILE = os.path.join(BASE_DIR, "mock_groundwater_data.json")  # <-- use new dataset
+DATA_FILE = os.path.join(BASE_DIR, "data.json")
 with open(DATA_FILE, "r") as f:
     groundwater_data = json.load(f)
 
