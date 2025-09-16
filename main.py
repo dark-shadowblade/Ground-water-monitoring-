@@ -8,9 +8,9 @@ from datetime import datetime, timedelta
 
 app = FastAPI()
 
-# Load data.json
+# Load mock data.json
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_FILE = os.path.join(BASE_DIR, "data.json")
+DATA_FILE = os.path.join(BASE_DIR, "mock_groundwater_data.json")  # <-- use new dataset
 with open(DATA_FILE, "r") as f:
     groundwater_data = json.load(f)
 
@@ -28,9 +28,34 @@ def summarize(data):
     }
 
 
+@app.get("/states")
+def get_states():
+    """Return list of all unique states."""
+    states = {v["state"] for v in groundwater_data.values()}
+    return sorted(states)
+
+
+@app.get("/districts/{state}")
+def get_districts(state: str):
+    """Return all districts for a given state."""
+    districts = {v["district"] for v in groundwater_data.values() if v["state"].lower() == state.lower()}
+    return sorted(districts)
+
+
 @app.get("/stations")
-def get_stations():
-    return list(groundwater_data.keys())
+def get_stations(state: str = None, district: str = None):
+    """
+    Return station IDs.
+    Optional filters: by state, by district.
+    """
+    stations = []
+    for station_id, v in groundwater_data.items():
+        if state and v["state"].lower() != state.lower():
+            continue
+        if district and v["district"].lower() != district.lower():
+            continue
+        stations.append(station_id)
+    return stations
 
 
 @app.get("/station/{station_id}")
@@ -46,9 +71,11 @@ def get_station_data(
     month: int = Query(None, ge=1, le=12, description="Calendar month (1-12) for month filter"),
 ):
     """Return station data with filters and summary."""
-    data = groundwater_data.get(station_id, [])
-    if not data:
+    station = groundwater_data.get(station_id)
+    if not station:
         return {"station_id": station_id, "data": [], "summary": {}}
+
+    data = station["data"]
 
     # Convert timestamps to datetime for filtering
     for d in data:
@@ -61,15 +88,12 @@ def get_station_data(
     elif filter == "day":
         filtered = [d for d in data if d["dt"] >= now - timedelta(days=1)]
     elif filter == "month" and year and month:
-        # Specific calendar month selection
         first_day = datetime(year, month, 1)
         last_day = datetime(year, month, calendar.monthrange(year, month)[1], 23, 59, 59)
         filtered = [d for d in data if first_day <= d["dt"] <= last_day]
     elif filter == "month":
-        # Rolling last 30 days
         filtered = [d for d in data if d["dt"] >= now - timedelta(days=30)]
     elif filter == "season":
-        # Example: last 3 months = one season
         filtered = [d for d in data if d["dt"] >= now - timedelta(days=90)]
     elif filter == "custom" and start and end:
         start_dt = datetime.fromisoformat(start)
@@ -84,8 +108,9 @@ def get_station_data(
 
     return {
         "station_id": station_id,
+        "state": station["state"],
+        "district": station["district"],
         "filter": filter,
         "summary": summarize(filtered),
         "data": filtered,
     }
-    
